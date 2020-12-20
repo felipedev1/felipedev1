@@ -1,16 +1,24 @@
-### Hi there 👋
+# :earth_americas: Hello World, I'm Felipe :smiley:
 
-<!--
-**felipedev1/felipedev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :book: About me
 
-Here are some ideas to get you started:
+```JSON
+  {
+    "name": "Felipe",
+    "age": 19,
+    "about": "I'm a Fullstack developer who loves challenges and is always learning new technologies.",
+    "contact": {
+      "email": "felipe.pereira.dev@gmail.com",
+      "whatsapp": "+5549999064488",
+      "linkedin": "https://www.linkedin.com/in/felipe-pereira-dev1"
+    }
+   }
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :chart: Github Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipedev1&show_icons=true&theme=tokyonight&hide_title=true" />
+</p>
+<p align="center">
+  <img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipedev1&layout=compact&theme=tokyonight" />
+</p>
